@@ -118,7 +118,7 @@ TR0N: CYCL3S is a terminal-based lightcycle game inspired by the TRON franchise.
 
 #### Pathfinding and AI
 
-- **A* Algorithm**:
+- **A\* Algorithm**:
   - Implements the A* pathfinding algorithm to find the shortest path from Rinzler's current position to the Player's position.
   - Uses a heuristic function to estimate the cost from the current position to the goal.
   - Considers valid neighboring positions that are not occupied by trails or obstacles.
