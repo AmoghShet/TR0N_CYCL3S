@@ -106,7 +106,7 @@ TR0N: CYCL3S is a terminal-based lightcycle game inspired by the TRON franchise.
 
 6. **Trail Update**:
    - Updates the trails for both the Player and Rinzler.
-   - Ensures that the trails do not exceed the maximum length.
+   - Ensures that the trails do not exceed the maximum length (Player = 20, Rinzler = 30).
 
 7. **Rendering**:
    - Renders the grid, characters, and trails on the screen.
