@@ -1,4 +1,4 @@
-# TR0N: CYCL3S Game - README
+# TR0N: CYCL3S
 
 ## Overview
 
