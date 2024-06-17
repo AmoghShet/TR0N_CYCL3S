@@ -1,6 +1,6 @@
 import curses
 import time
-import random
+import random 
 import heapq
 
 # Constants
