@@ -3,7 +3,7 @@
 ## Overview
 
 TR0N: CYCL3S is a terminal-based lightcycle game inspired by the TRON franchise. The game features two characters: the Player and your AI opponent 'Rinzler'. Each character leaves a trail behind them as they move on a grid. The objective is to avoid colliding with the trails or obstacles while trying to outmaneuver the opponent.
-
+ 
 ## Game Mechanics
 
 1. **Grid**: The game is played on a 32x32 grid.
